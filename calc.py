@@ -1,4 +1,7 @@
 class Calc:
+    def getZegop(self, a):
+        return a * a
+
     def getSumSum(self, a, b, c):
         return a + b + c
 
