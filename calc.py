@@ -2,7 +2,9 @@ class Calc:
     def getZegop(self, a):
         return a * a
 
-    pass
+    def getSumSum(self, a, b, c):
+        return a + b + c
+
     def getGop(self, a, b):
         return a * b
     
