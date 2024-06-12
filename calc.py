@@ -1,4 +1,7 @@
 class Calc:
+    def getMinus(self, a, b):
+        return a - b
+      
     def getSum(a, b):
         return a + b
 
@@ -13,4 +16,3 @@ class Calc:
     
     def getDivide(self, a, b):
         return a / b
-
